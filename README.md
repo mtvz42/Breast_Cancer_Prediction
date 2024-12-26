@@ -1,5 +1,5 @@
 # Breast Cancer Prediction
-The goal of this notebook is to build several machine learning algorithms to predict whether a breast tumour is benign or malignant.
+The goal of this notebook is to build several Machine Learning algorithms to predict whether a breast tumour is benign or malignant.
 The dataset is the Breast Cancer Wisconsin Dataset, available here: https://www.kaggle.com/datasets/rahmasleam/breast-cancer?select=breast-cancer.csv
 The algorithms tested are:
 - Logistic regression
@@ -10,4 +10,4 @@ The algorithms tested are:
 - Extra trees
 - XGBoost
 
-After an initial exploratory data analysis, the models are tested and saved as pickle files. After assessing performance, the predicted data from the best model is analysed.
+After an initial Exploratory Data Analysis, the models are tested and saved as pickle files. After assessing performance, the predicted data from the best model is analysed.
