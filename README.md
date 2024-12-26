@@ -1,7 +1,7 @@
 # Breast Cancer Prediction
 The goal of this notebook is to build several Machine Learning algorithms to predict whether a breast tumour is benign or malignant.
-The dataset is the Breast Cancer Wisconsin Dataset, available here: https://www.kaggle.com/datasets/rahmasleam/breast-cancer?select=breast-cancer.csv
-The algorithms tested are:
+The dataset is the Breast Cancer Wisconsin Dataset, available here: https://www.kaggle.com/datasets/rahmasleam/breast-cancer?select=breast-cancer.csv \
+The tested algorithms are:
 - Logistic regression
 - K-Nearest Neighbour
 - Support Vector Machine
