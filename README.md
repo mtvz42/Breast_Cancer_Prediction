@@ -11,3 +11,4 @@ The algorithms tested are:
 - XGBoost
 
 After an initial Exploratory Data Analysis, the models are tested and saved as pickle files. Once performance has been assessed, the predicted data from the best model is analysed.
+This notebook is part of the required perr-graded assignment for the Coursera IBM Machine Learning Professional Certificate.
